@@ -41,7 +41,7 @@ def email_functionality():
     server= smtplib.SMTP('smtp.gmail.com','587')
     server.starttls()
     user='190770107300@socet.edu.in'
-    server.login(user,'EI447B83')
+    server.login(user,'Your Email Password')
 
 
 
